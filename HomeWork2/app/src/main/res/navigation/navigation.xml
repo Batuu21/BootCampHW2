@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/wordTestFragment">
+
+    <fragment
+        android:id="@+id/wordTestFragment"
+        android:name="com.example.homework2.WordTestFragment"
+        android:label="fragment_word_test"
+        tools:layout="@layout/fragment_word_test" >
+        <action
+            android:id="@+id/action_wordTestFragment_to_splashActivity"
+            app:destination="@id/splashActivity"
+            app:popUpTo="@id/splashActivity"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <activity
+        android:id="@+id/splashActivity"
+        android:name="com.example.homework2.SplashActivity"
+        android:label="activity_splash"
+        tools:layout="@layout/activity_splash" />
+</navigation>

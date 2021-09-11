@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable-v24/ic_splash_bottom_logo.xml" value="0.2703125" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable-v24/ic_splash_logo.xml" value="0.2703125" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/circular_countdown_timer.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/custom_checkbox_selector.xml" value="0.2703125" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/ic_circle_checkbox_outline_checked.xml" value="0.2703125" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/ic_circle_checkbox_unchecked.xml" value="0.2703125" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/ic_cloud.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/ic_greater_cloud.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/ic_right_arrow.xml" value="0.2703125" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/kelime_baslat.xml" value="0.2703125" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/rounded_bordered_card_shape.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/rounded_cross_sign_shape.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/rounded_purple_button_shape.xml" value="0.2703125" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/rounded_white_button_shape.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/drawable/word_test_background_gradient.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/layout/activity_main.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/layout/activity_question_answer.xml" value="0.140625" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/layout/activity_splash.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/layout/activity_word_test.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/batu/Desktop/HomeWork2/app/src/main/res/layout/fragment_word_test.xml" value="0.22554347826086957" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
